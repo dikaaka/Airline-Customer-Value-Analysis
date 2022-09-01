@@ -7,7 +7,7 @@ Improve airline frequent-flyer program and target the right customers to be offe
 ### Objective 
 Create a cluster prediction model using unsupervised learning so that it makes easier for airline to make decisions.
 ## Data
-The dataset contains 62.988 data rows and 23 features of customer behavior features who used company flying service.
+The dataset contains 62.988 data rows and 23 features of customer's behavior features who used company flying service.
 ## Tools
 On this project I've used python as programming language; jupyterlab as notebook; pandas, numpy, sklearn and dython to preprocessing and machine learning section; combination of matplotlib and seaborn library to generated data visualization.
 ## Contents
